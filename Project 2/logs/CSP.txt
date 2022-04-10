@@ -1,0 +1,11 @@
+Checked Code. No print() or sys.stdout methods in code
+Testcase1:Passed,Time:0.033745527267456055
+Testcase2:Passed,Time:0.14669322967529297
+Testcase3:Passed,Time:0.019885778427124023
+Testcase4:Passed,Time:0.001293182373046875
+Testcase5:Passed,Time:0.002430438995361328
+Testcase6:Passed,Time:0.005063056945800781
+Testcase7:Passed,Time:0.0043566226959228516
+Testcase8:Passed,Time:0.0024957656860351562
+Testcase9:Passed,Time:0.004033088684082031
+Testcase10:Passed,Time:0.004685640335083008
