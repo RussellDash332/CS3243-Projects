@@ -1,6 +1,6 @@
 ## Logs Processor
 
-Submitting the exact same code multiple times to CodePost is somewhat painful. But what's more painful if the inability to have more iterations using the autograder's agent.
+Submitting the exact same code multiple times to CodePost is somewhat painful. But what's more painful is the inability to have more iterations using the autograder's agent.
 
 Introducing `process_logs.py`! The process is quite simple.
 ```
